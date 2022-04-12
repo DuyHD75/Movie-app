@@ -1020,6 +1020,8 @@ a.movie-item:hover {
 
      }
 }
+
+
 .to-top {
      transform: translateY(100px);
      opacity: 0;
