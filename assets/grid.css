@@ -91,7 +91,7 @@
          left: 20px;
          height: 40px;
          position: relative;
-         top: 45vh;
+         top: 60vh;
     }
 
     .col-3-5 {
@@ -125,12 +125,12 @@
     }
 
     .section-tv {
-         margin-top: 20rem;
+         margin-top: 58rem;
          height: 140vh;
     }
 
     .special {
-        margin-top: 5rem;
+        margin: 33rem 0 10rem;
          height:60vh;
     }
 
@@ -152,7 +152,6 @@
 
    
 
-    
     .big-slide-item-content {
          margin-left: -20px;
     }
